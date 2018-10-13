@@ -20,6 +20,6 @@ This notebook shows to create a custom data genertor in keras.
 
 As we know that TenosrFlow works with static graphs. So, first you have to create the graph then execute it later. This makes debugging a bit complicated. With Eager Execution you can now evalute operations directly without creating a session. 
 
-## Eager Execution Walk-Through 
+## Eager Execution Enabled
 
-In this notebook I explain different conecepts in eager execution. I go over variables, ops, gradients, custom gradients, callbacks, metrics and models. 
+In this notebook I explain different concepts in eager execution. I go over variables, ops, gradients, custom gradients, callbacks, metrics and creating models with tf.keras and saving/restoring them. 

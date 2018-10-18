@@ -27,3 +27,6 @@ In this notebook I explain different concepts in eager execution. I go over vari
 ## Sketcher 
 
 Create a simple app to recognize 100 drawings from the quickdraw dataset. A simple CNN model is created and served to deoploy in the browser to create a sketch recognizer app. 
+
+## QuickDraw10
+In this notebook we provide QuickDraw10 as an alternative for MNIST. A script is provided to download and load a preprocessed dataset for 10 classes with training and testing split. Also, a simple CNN model is implemented for training and testing. 

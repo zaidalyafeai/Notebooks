@@ -23,3 +23,7 @@ As we know that TenosrFlow works with static graphs. So, first you have to creat
 ## Eager Execution Enabled
 
 In this notebook I explain different concepts in eager execution. I go over variables, ops, gradients, custom gradients, callbacks, metrics and creating models with tf.keras and saving/restoring them. 
+
+## Sketcher 
+
+Create a simple app to recognize 100 drawings from the quickdraw dataset. A simple CNN model is created and served to deoploy in the browser to create a sketch recognizer app. 

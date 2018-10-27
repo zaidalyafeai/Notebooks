@@ -30,3 +30,6 @@ Create a simple app to recognize 100 drawings from the quickdraw dataset. A simp
 
 ## QuickDraw10
 In this notebook we provide QuickDraw10 as an alternative for MNIST. A script is provided to download and load a preprocessed dataset for 10 classes with training and testing split. Also, a simple CNN model is implemented for training and testing. 
+
+## Autoencoders 
+Autoencoders consists of two structures: the encoder and the decoder. The encoder network downsamples the data into lower dimensions and the decoder network reconstructs the original data from the lower dimension representation. The lower dimension representation is usually called latent space representation. 

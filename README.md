@@ -33,3 +33,7 @@ In this notebook we provide QuickDraw10 as an alternative for MNIST. A script is
 
 ## Autoencoders 
 Autoencoders consists of two structures: the encoder and the decoder. The encoder network downsamples the data into lower dimensions and the decoder network reconstructs the original data from the lower dimension representation. The lower dimension representation is usually called latent space representation. 
+
+## Weight Transfer
+In this tutorial we explain how to transfer weights from a static graph model built with TensorFlow to a dynamic graph built with Keras. We will first train a model using Tensorflow then we will create the same model in keras and transfer the trained weights between the two models. 
+

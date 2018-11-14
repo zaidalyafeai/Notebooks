@@ -37,3 +37,6 @@ Autoencoders consists of two structures: the encoder and the decoder. The encode
 ## Weight Transfer
 In this tutorial we explain how to transfer weights from a static graph model built with TensorFlow to a dynamic graph built with Keras. We will first train a model using Tensorflow then we will create the same model in keras and transfer the trained weights between the two models. 
 
+## BigGan 
+
+Create some cool gifs by interpolation in the latent space of the BigGan model. The model is imported from tensorflow hub. 

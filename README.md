@@ -40,3 +40,8 @@ In this tutorial we explain how to transfer weights from a static graph model bu
 ## BigGan 
 
 Create some cool gifs by interpolation in the latent space of the BigGan model. The model is imported from tensorflow hub. 
+
+## BigGanEx 
+
+In this notebook I give a basic introduction to bigGans. I also, how to interpolate between z-vector values. Moreover, I show the 
+results of multiple experiments I made in the latent space of BigGans. 

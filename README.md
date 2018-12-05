@@ -1,6 +1,6 @@
 # Notebooks
 
-## Training pix2pix 
+## Training pix2pix [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_pix2pix.ipynb) 
 
 This notebook shows a simple pipeline for training pix2pix on a simple dataset.
 

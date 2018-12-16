@@ -46,3 +46,6 @@ Create some cool gifs by interpolation in the latent space of the BigGan model. 
 ## BigGanEx [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/BigGanEx.ipynb)
 In this notebook I give a basic introduction to bigGans. I also, how to interpolate between z-vector values. Moreover, I show the 
 results of multiple experiments I made in the latent space of BigGans. 
+
+## Mask R-CNN [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Mask_RCNN.ipynb)
+In this notebook a pretrained Mask R-CNN model is used to predict the bounding box and the segmentation mask of objects. I used this notebook to create the dataset for training the pix2pix model. 

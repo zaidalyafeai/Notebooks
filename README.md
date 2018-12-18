@@ -49,3 +49,7 @@ results of multiple experiments I made in the latent space of BigGans.
 
 ## Mask R-CNN [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Mask_RCNN.ipynb)
 In this notebook a pretrained Mask R-CNN model is used to predict the bounding box and the segmentation mask of objects. I used this notebook to create the dataset for training the pix2pix model. 
+
+## QuickDraw Strokes [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Strokes_QuickDraw.ipynb)
+A notebook exploring the drawing data of quickdraw. I also illustrate how to make a cool animation of the drawing process in 
+colab. 

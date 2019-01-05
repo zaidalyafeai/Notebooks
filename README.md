@@ -53,3 +53,6 @@ In this notebook a pretrained Mask R-CNN model is used to predict the bounding b
 ## QuickDraw Strokes [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Strokes_QuickDraw.ipynb)
 A notebook exploring the drawing data of quickdraw. I also illustrate how to make a cool animation of the drawing process in 
 colab. 
+
+## U-Net [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/unet.ipynb)
+The U-Net model is a simple fully  convolutional neural network that is used for binary segmentation i.e foreground and background pixel-wise classification. In this notebook we use it to segment cats and dogs from arbitrary images. 

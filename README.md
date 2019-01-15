@@ -56,3 +56,7 @@ colab.
 
 ## U-Net [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/unet.ipynb)
 The U-Net model is a simple fully  convolutional neural network that is used for binary segmentation i.e foreground and background pixel-wise classification. In this notebook we use it to segment cats and dogs from arbitrary images. 
+
+## Localizer [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Localizer.ipynb)
+A simple CNN with a regression branch to predict bounding box parameters. The model is trained on a dataset 
+of dogs and cats with bounding box annotations around the head of the pets. 

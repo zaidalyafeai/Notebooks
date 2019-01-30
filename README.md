@@ -60,3 +60,8 @@ The U-Net model is a simple fully  convolutional neural network that is used for
 ## Localizer [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Localizer.ipynb)
 A simple CNN with a regression branch to predict bounding box parameters. The model is trained on a dataset 
 of dogs and cats with bounding box annotations around the head of the pets. 
+
+## Classification and Localization [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_ClassficationLocalization.ipynb)
+We create a simple CNN with two branches for classification and locazliation of cats and dogs. 
+
+

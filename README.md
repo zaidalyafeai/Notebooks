@@ -64,6 +64,6 @@ of dogs and cats with bounding box annotations around the head of the pets.
 ## Classification and Localization [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_ClassficationLocalization.ipynb)
 We create a simple CNN with two branches for classification and locazliation of cats and dogs. 
 
-## Transfer Learning [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_TransferLearning.ipynb.ipynb)
+## Transfer Learning [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_TransferLearning.ipynb)
 A notebook about using Mobilenet for transfer learning in TensorFlow. The model is very fast and achieves 97% validation accuracy on a binary classification dataset. 
 

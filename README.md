@@ -5,14 +5,14 @@
     <th class="tg-yw4l"><b>Name</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Category</b></th>
-    <th class="tg-yw4l"><b>Colab Link</b></th>
+    <th class="tg-yw4l"><b> Link </b></th>
   </tr>
   <tr>
     <td class="tg-yw4l">Training pix2pix</td>
     <td class="tg-yw4l">This notebook shows a simple pipeline for training pix2pix on a simple dataset.</td>
     <td class="tg-yw4l">GAN</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_pix2pix.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '800px' >
 </a></td>
   </tr>
   
@@ -82,7 +82,7 @@
   <tr>
     <td class="tg-yw4l">Autoencoders</td>
     <td class="tg-yw4l">Autoencoders consists of two structures: the encoder and the decoder. The encoder network downsamples the data into lower dimensions and the decoder network reconstructs the original data from the lower dimension representation. The lower dimension representation is usually called latent space representation.  </td>
-    <td class="tg-yw4l"> Auto-encoder and Latent Space </td>
+    <td class="tg-yw4l"> Auto-encoder </td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/AutoEncoders.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" >
 </a></td>
@@ -162,7 +162,7 @@ of dogs and cats with bounding box annotations around the head of the pets.
     <td class="tg-yw4l">Classification and Localization</td>
     <td class="tg-yw4l"> We create a simple CNN with two branches for classification and locazliation of cats and dogs. 
  </td>
-    <td class="tg-yw4l"> Classification and Localization</td>
+    <td class="tg-yw4l"> Classification, Localization</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_ClassficationLocalization.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" >
 </a></td>

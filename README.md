@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Training pix2pix</td>
-    <td class="tg-yw4l">This notebook shows a simple pipeline for training pix2pix on a simple dataset.</td>
+    <td class="tg-yw4l">This notebook shows a simple pipeline for training pix2pix on a simple dataset. Most of the code is based on <a href = 'https://github.com/affinelayer/pix2pix-tensorflow' >this implementation</a></td>
     <td class="tg-yw4l">GAN</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_pix2pix.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '800px' >

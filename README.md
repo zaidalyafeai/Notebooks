@@ -102,7 +102,7 @@
     <td class="tg-yw4l">Create some cool gifs by interpolation in the latent space of the BigGan model. The model is imported from tensorflow hub. 
  </td>
     <td class="tg-yw4l"> GAN</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/BigGan.ipynb">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/BigGAN.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" >
 </a></td>
   </tr>
@@ -112,7 +112,7 @@
     <td class="tg-yw4l">In this notebook I give a basic introduction to bigGans. I also, how to interpolate between z-vector values. Moreover, I show the  results of multiple experiments I made in the latent space of BigGans. 
  </td>
     <td class="tg-yw4l"> GAN </td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/BigGAN.ipynb">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/BigGanEx.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" >
 </a></td>
   </tr>

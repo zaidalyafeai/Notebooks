@@ -177,6 +177,17 @@ of dogs and cats with bounding box annotations around the head of the pets.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" >
 </a></td>
   </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Hand Detection </td>
+    <td class="tg-yw4l"> 
+In this task we want to localize the right and left hands for each person that exists in a single frame. It acheives around 0.85 IoU.   
+ </td>
+    <td class="tg-yw4l"> Detection</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_handBbox_esitmation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+</a></td>
+  </tr>
 </table>
 
 

@@ -206,7 +206,7 @@ In this task we used a simple version of SSD for face detection. The model was t
 In this task we use the brand new TF 2.0 with default eager execution. We explore, tensors, gradients, dataset and many more.  
  </td>
     <td class="tg-yw4l"> Platform</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/TF_2.0.ipynb">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/TF_2_0.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" >
 </a></td>
   </tr>

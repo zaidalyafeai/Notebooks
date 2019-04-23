@@ -210,6 +210,40 @@ In this task we use the brand new TF 2.0 with default eager execution. We explor
   <img src="https://colab.research.google.com/assets/colab-badge.svg" >
 </a></td>
   </tr>
+  
+  <tr>
+    <td class="tg-yw4l">SC-FEGAN </td>
+    <td class="tg-yw4l"> 
+In this notebook, you can play directly with the SC-FEGAN for face-editting directly in the browser. 
+ </td>
+    <td class="tg-yw4l"> GAN</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/SC_FEGAN.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Swift for TensorFlow </td>
+    <td class="tg-yw4l"> 
+Swift for TensorFlow is a next-generation platform for machine learning that incorporates differentiable programming. In this notebook a go over its basics and also how to create a simple NN and CNN. 
+ </td>
+    <td class="tg-yw4l"> Platform</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/TF_Swift.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">GCN </td>
+    <td class="tg-yw4l"> 
+Ever asked yourself how to use convolution networks for non Euclidean data for instance graphs ? GCNs are becoming increasingly popular to solve such problems. I used Deep GCNs to classify spammers & non-spammers. 
+ </td>
+    <td class="tg-yw4l"> Platform</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Deep_GCN_Spam.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+</a></td>
+  </tr>
+  
 </table>
 
 
